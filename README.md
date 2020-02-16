@@ -1,6 +1,6 @@
-# MFT parser 제작 #
+# MFT parser #
 
-### 1. 실행 방법 ###
+### 1. How to run ###
 
 1. NTFS img file -> $MFT
 * python3 fs_extractor.py --i [input file] 
