@@ -10,8 +10,3 @@
 ### 2. MFT file format ###
 
 ![MFTformat](/Users/chengxi/Download/MFTformat.png)
-
-
-### 3. ###
-
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
